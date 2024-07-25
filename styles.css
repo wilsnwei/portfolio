@@ -47,3 +47,21 @@ h2{
     margin: 30px;
     font-size: 30px;
 }
+
+#NEU {
+    margin-right: 50px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+#DTCC-logo {
+    margin-top: 20px;
+    margin-right: 50px;
+
+}
+#Headstarter {
+    border-radius: 3%;
+    margin-right: 150px;
+    margin-top: 0px;
+}
